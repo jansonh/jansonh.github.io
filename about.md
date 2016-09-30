@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### Who am I?
 
-### More Information
+I am lecturer at Faculty of Information and Techology, [Tarumanagara University](http://www.untar.ac.id). Current research interests are in machine learning and computer vision.
 
-A place to include any other types of information that you'd like to include about yourself.
+### Contact
 
-### Contact me
+[Homepage](http://www.jansonhendryli.net)
 
-[email@domain.com](mailto:email@domain.com)
+[Email](mailto:jansonhendryli@gmail.com)
