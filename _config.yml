@@ -21,9 +21,9 @@ footer-links:
   email: jansonhendryli@gmail.com
   facebook:
   flickr:
-  github: jansonh
+  github: https://github.com/jansonh
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/jansonh/
   pinterest:
   rss: jansonh # just type anything here for a working RSS icon
   twitter:
@@ -34,14 +34,17 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus:
+disqus: jansonh-github-io
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: UA-163858779-1
+
+# Enter your Google Adsense code
+google_adsense: ca-pub-6659073964224423
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://www.jansonhendryli.net
+url: https://jansonh.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
